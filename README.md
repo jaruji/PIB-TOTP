@@ -1,2 +1,2 @@
 # PIB-TOTP
-Simple webpage simulating TOTP authentication with the use of Google Authenticator application
+Jednoduchá webstránka slúžiaca na testovanie TOTP autentizácie prostredníctvom Google Authenticator aplikácie. Kód pre prácu s TOTP algoritmom sa nachádza v prečinku routes na strane servera. Pre spustenie webstránky je potrebná inštalácia node.js a MongoDB databázy, potrebné balíky je potrebné doinštalovať príkazom npm install (z priečinka server). Po spustení servera je možné vyskúšat registráciu, naskenovanie vygenerovaného QR kódu do aplikácie Google Authenticator a následne prihlásenie do účtu chráneného jednorázovým heslom.
