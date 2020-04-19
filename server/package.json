@@ -1,0 +1,19 @@
+{
+  "name": "PIB_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "elm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^2.13.1",
+    "fastify-cors": "^3.0.3",
+    "hi-base32": "^0.5.0",
+    "mongodb": "^3.5.6"
+  }
+}
