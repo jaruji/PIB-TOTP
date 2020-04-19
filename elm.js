@@ -12303,7 +12303,7 @@ var author$project$Main$view = function (model) {
 												]),
 											_List_fromArray(
 												[
-													elm$html$Html$text('This application was created to test HOTP implementation')
+													elm$html$Html$text('This application was created to test TOTP implementation')
 												])),
 											A2(
 											elm$html$Html$h2,

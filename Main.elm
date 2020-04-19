@@ -209,7 +209,7 @@ view model =
                         div[ style "margin-top" "30px" ][
                             h1[][ text "Welcome to OTP testing app" ]
                             , div [ class "text-muted" ][
-                                text "This application was created to test HOTP implementation"
+                                text "This application was created to test TOTP implementation"
                             ]
                             , h2[][ text "Usage" ]
                             , div [ class "text-muted" ][
